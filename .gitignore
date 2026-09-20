@@ -1,0 +1,4 @@
+/txt2pdf
+*.o
+plot_tests
+.DS_Store
